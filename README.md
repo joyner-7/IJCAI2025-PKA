@@ -37,8 +37,9 @@ For generalization, additional unseen datasets (CUHK01, CUHK02, VIPeR, PRID, i-L
 ---
 ## ✨ Citation
 If you find this work useful, please cite:
-''' @article{luprototype,
-title={Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification},
-author={Lu, Zhijie and Shi, Wuxuan and Li, He and Ye, Mang}
+
+```bibtex
+@article{luprototype,
+  title={Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification},
+  author={Lu, Zhijie and Shi, Wuxuan and Li, He and Ye, Mang}
 }
-'''
