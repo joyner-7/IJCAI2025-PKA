@@ -5,6 +5,7 @@ This repository contains the official implementation of the paper:
 **Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification**  
 *Zhijie Lu, Wuxuan Shi, He Li, Mang Ye*  
 IJCAI 2025  
+[[Paper]](./ijcai2025-camera-ready.pdf)
 
 ---
 
@@ -34,10 +35,10 @@ We follow the standard LReID benchmark setup and evaluate on:
 For generalization, additional unseen datasets (CUHK01, CUHK02, VIPeR, PRID, i-LIDS, GRID, SenseReID) are also tested.
 
 ---
-
-## ⚙️ Installation
-```bash
-git clone https://github.com/joyner-7/IJCAI2025-PKA.git
-cd IJCAI2025-PKA
-pip install -r requirements.txt
-
+## ✨ Citation
+If you find this work useful, please cite:
+''' @article{luprototype,
+title={Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification},
+author={Lu, Zhijie and Shi, Wuxuan and Li, He and Ye, Mang}
+}
+'''
