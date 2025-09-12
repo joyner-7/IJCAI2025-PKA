@@ -7,6 +7,9 @@ This repository contains the official implementation of the paper:
 IJCAI 2025  
 [[Paper]](./ijcai2025-camera-ready.pdf)
 
+![Framework Overview](./pic1.png)  
+![Performance Trend](./pic2.png)
+
 ---
 
 ## 🔍 Introduction
