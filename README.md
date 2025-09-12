@@ -3,9 +3,9 @@
 This repository contains the official implementation of the paper:
 
 ## Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification  
-*Zhijie Lu, Wuxuan Shi, He Li<sup>*</sup>, Mang Ye<sup>*</sup>* 
-IJCAI 2025  
-[[Paper]](./ijcai2025-camera-ready.pdf)
+*Zhijie Lu, Wuxuan Shi, He Li, Mang Ye
+
+[[Paper]](./ijcai2025.pdf)
 
 ![Framework Overview](./pic1.png)  
 ![Performance Trend](./pic2.png)
